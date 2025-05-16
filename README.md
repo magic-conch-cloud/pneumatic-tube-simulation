@@ -13,11 +13,9 @@ The project is organized into two main directories: the root `PNEUMATIC_TUBE` di
   - `GasMolecule` class for molecule behavior (position, velocity, collision handling).
   - `SolidObject` class for the dynamic object (responds to collisions with molecules).
   - `GasSimulation` class for managing the PyQt5 scene, molecules, and updates.
-- **chat_log.txt**: Logs of project-related discussions (not used in the simulation).
 - **GUI_def.py**: Preliminary GUI definitions (work in progress, not integrated).
 - **my_think.png**: A diagram or sketch of the project concept.
 - **README**: Basic project overview (this file supersedes it).
-- **test.txt**: Temporary file for testing purposes.
 - **TODO**: List of tasks and planned improvements.
 - **update.txt**: Log file for simulation events (e.g., object creation, simulation start).
 
