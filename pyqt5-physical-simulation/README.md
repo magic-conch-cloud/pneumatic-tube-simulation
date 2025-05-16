@@ -18,7 +18,6 @@ pyqt5-physical-simulation
 │   └── utils
 │       └── helpers.py         # Utility functions for the application
 ├── requirements.txt           # Project dependencies
-├── .gitignore                 # Files and directories to ignore by Git
 └── README.md                  # Documentation for the project
 ```
 
