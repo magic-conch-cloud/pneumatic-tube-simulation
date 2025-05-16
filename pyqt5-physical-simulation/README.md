@@ -3,11 +3,12 @@
 ## Project Overview
 This project is a graphical user interface application developed using PyQt5 for simulating physical phenomena. The application allows users to interact with various simulation parameters and visualize the results in real-time.
 
-## Project Structure
+## Project Structure 
+Most of what's written here doesn't work yet. Everything still works in main.py, which is outside the current folder.
 ```
 pyqt5-physical-simulation
 ├── src
-│   ├── main.py                # Entry point of the application
+│   ├── main.py                # Entry point of the application 
 │   ├── ui
 │   │   ├── main_window.py     # Main user interface definition
 │   │   └── resources.qrc      # Qt resource file for images and icons
