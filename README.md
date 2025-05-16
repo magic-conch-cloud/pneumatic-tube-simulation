@@ -93,13 +93,6 @@ A window (800x600 pixels) displays:
 - **Performance Optimization**: Optimize collision detection for larger molecule counts.
 - **Documentation**: Expand READMEs and add inline code comments.
 
-## Contributing
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/your-feature`).
-3. Commit changes (`git commit -m "Add your feature"`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
 ## License
 This project is licensed under the [MIT License](LICENSE), allowing anyone to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the conditions outlined in the license file.
 
