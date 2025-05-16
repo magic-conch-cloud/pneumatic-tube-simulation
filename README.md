@@ -21,7 +21,7 @@ The project is organized into two main directories: the root `PNEUMATIC_TUBE` di
 - **TODO**: List of tasks and planned improvements.
 - **update.txt**: Log file for simulation events (e.g., object creation, simulation start).
 
-### Subdirectory (`pyqt5-physical-simulation`)
+### Subdirectory (`pyqt5-physical-simulation`) (not work yet, everything in main.py)
 A more structured implementation with modular code:
 - **src/main.py**: A refined version of the root `main.py` (may include updates or differences).
 - **src/simulation/**:
