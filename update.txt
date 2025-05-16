@@ -36,3 +36,15 @@
 2025-05-13 19:50:48.424006: Dynamic solid object created at (300.0, 200.0)
 2025-05-13 19:50:48.424006: Gas molecules created and positioned
 2025-05-13 19:50:48.471262: Simulation started
+2025-05-16 14:34:25.114281: Static cylinder created
+2025-05-16 14:34:25.114281: Dynamic solid object created at (300.0, 200.0)
+2025-05-16 14:34:25.114281: Gas molecules created and positioned
+2025-05-16 14:34:25.189982: Simulation started
+2025-05-16 14:34:41.963184: Static cylinder created
+2025-05-16 14:34:41.963184: Dynamic solid object created at (300.0, 200.0)
+2025-05-16 14:34:41.963184: Gas molecules created and positioned
+2025-05-16 14:34:42.013626: Simulation started
+2025-05-16 14:41:53.398621: Static cylinder created
+2025-05-16 14:41:53.398621: Dynamic solid object created at (300.0, 200.0)
+2025-05-16 14:41:53.406701: Gas molecules created and positioned
+2025-05-16 14:41:53.460918: Simulation started
